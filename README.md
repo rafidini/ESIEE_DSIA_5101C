@@ -10,7 +10,10 @@ Project this year will be individual and no two students will be allowed to have
 ### Course Material
 The book that we will be using during the course is:
 
-- ***Programming in Scala***, 3rd Ed. By Martin Odersky et al.
+- ***Programming in Scala***, 4th Ed. By Martin Odersky et al.
+
+- ***Programming in Scala***, 5th Ed. By Martin Odersky et al. (Updated to Scala 3)
+
 
 The [Scala](http://www.scala-lang.org) website also contains several links to useful learning material. 
 
@@ -21,6 +24,7 @@ While this is a scala Course, I'll be using from time to time [Haskell](http://h
 - ***Thinking Functionally with Haskell***, by Richard Bird
 
 ### Software
+#### Scala 2.x
 Make sure that your laptop has intsalled:
 
 
@@ -35,8 +39,15 @@ Make sure that your laptop has intsalled:
 (**) While you could get by installing only IntelliJ I also want you to have direct experience with SBT. Thus install it.
 
 
+#### Scala 3.x
+Make sure that your laptop has intsalled:
+
+- [Supported IDEs](http://dotty.epfl.ch/docs/usage/ide-support.html)
+
+- [Coursier](https://get-coursier.io/docs/cli-installation)
+
+
 ### Optional Software
 
 If you want to be able to run the Haskell examples that I'll be using during the course you'll need to install the haskell platform by following the instructions available [here](https://www.haskell.org/downloads). 
-
 
