@@ -10,10 +10,11 @@ Project this year will be individual and no two students will be allowed to have
 ### Course Material
 The book that we will be using during the course is:
 
-- ***Programming in Scala***, 4th Ed. By Martin Odersky et al.
+- ***Programming in Scala***, 5th Ed. by Martin Odersky et al. (Updated to Scala 3)
 
-- ***Programming in Scala***, 5th Ed. By Martin Odersky et al. (Updated to Scala 3)
+Another very good Scala Book is:
 
+- ***Programming Scala***, 3rd Ed. by Dean Wampler
 
 The [Scala](http://www.scala-lang.org) website also contains several links to useful learning material. 
 
@@ -45,6 +46,8 @@ Make sure that your laptop has intsalled:
 - [Supported IDEs](http://dotty.epfl.ch/docs/usage/ide-support.html)
 
 - [Coursier](https://get-coursier.io/docs/cli-installation)
+
+- [Scala Build Toool](http://www.scala-sbt.org)** 
 
 
 ### Optional Software
