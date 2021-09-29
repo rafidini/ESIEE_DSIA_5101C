@@ -15,6 +15,8 @@ package fr.esiee.fpic.labs:
       val d = gcd(n, m)
       Rational(n/d, m/d)
 
-    override def toString(r: Rational): String = "s($num/$den)"
+    def unary_- = Rational(-this.num, -this.den)
+
+    override def toString: String = "s($num/$den)"
 
     // Please define sum, subtraction, division and negation
