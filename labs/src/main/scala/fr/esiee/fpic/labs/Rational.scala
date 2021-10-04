@@ -20,3 +20,5 @@ package fr.esiee.fpic.labs:
     override def toString: String = "s($num/$den)"
 
     // Please define sum, subtraction, division and negation
+
+
